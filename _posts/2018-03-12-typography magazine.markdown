@@ -6,7 +6,6 @@ comments: true
 categories: jekyll update
 ---
 
-Magazine for Bangkok tourism
 As a part of an assignment, we had to choose a destination and make two magazine layouts showing the destination- one layout with grid and one breaking the grid. It had to look aesthetically pleasing with correct font, size, colours and and all specifications of typography layout had to be met. I tried looking at magazine layouts from a different aspects and tried bringing the essence of Bangkok and its culture through it.
 
 I have travelled to Bangkok around four to five times for family vacation. It is a perfect destination for relaxation and unwinding yourself. You'll be blown away by the craftsmanship and elaborate details in the Buddhist temples. The floating market, elephant rides, night shopping markets and the Bangkok zoo is surely going to keep the entire family engaged. Travelling helped me immensely to bring out the essence in this magazine layout.
