@@ -6,11 +6,15 @@ comments: true
 categories: jekyll update
 ---
 
-As a part of an assignment, we had to choose a destination and make two magazine layouts showing the destination- one layout with grid and one breaking the grid. It had to look aesthetically pleasing with correct font, size, colours and and all specifications of typography layout had to be met. I tried looking at magazine layouts from a different aspects and tried bringing the essence of Bangkok and its culture through it.
+As a part of an assignment in Typography class, we had to choose a tourist destination and make two magazine layouts for National Geographic. One layout has to be in grids and one layout was for breaking the grid. It had to look aesthetically pleasing with the correct font, font size, colours and placements. I looked at magazine layouts from a different aspects and tried bringing the essence of Bangkok and its culture through it.
 
-I have travelled to Bangkok around four to five times for family vacation. It is a perfect destination for relaxation and unwinding yourself. You'll be blown away by the craftsmanship and elaborate details in the Buddhist temples. The floating market, elephant rides, night shopping markets and the Bangkok zoo is surely going to keep the entire family engaged. Travelling helped me immensely to bring out the essence in this magazine layout.
+I have travelled to Bangkok for family vacations before. It is a perfect destination for relaxation and unwinding yourself. You'll be blown away by the craftsmanship and elaborate details in the devotional Buddhist temples over there. The floating market, elephant rides, night shopping markets, The Grand Palace and the Bangkok zoo are surely some of the top must visit places in Bangkok that are surely going to keep the entire family engaged. One must try the traditional Thai cuisine when in Bangkok,
+Tom Yum Goong (Spicy Shrimp Soup), Som Tum (Spicy Green Papaya Salad), Gaeng Daeng (Red Curry) and Pad Thai (Thai style Fried Noodles) are some of the interesting Thai dishes you can try!
+
+Experiences help you grow, and travelling in this case surely aided me to reflect my memories of Bangkok in this assignment.
 
 
+Here are the two magazine layouts I made:
 ![a022_hasika_layout 1 for bangkok](https://user-images.githubusercontent.com/36836492/37271366-a7542d10-25f8-11e8-837a-ec7a1177707a.jpg)
 
 ![a022_hasika_layout 2 for bangkok](https://user-images.githubusercontent.com/36836492/37271418-d7c0e39e-25f8-11e8-9e5f-bfb133b24184.jpg)
