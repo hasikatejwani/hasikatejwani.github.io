@@ -8,6 +8,8 @@ categories: jekyll update
 
 Space, place and culture in Fish Market - Photo essay
 
+As an photography assignment, we were asked to click pictures of the space of a fish market and describe the culture seen there. Here are the clicks and an essay describing a typical fish market.  
+
 The fish market has low lying tables made out of old wood in a straight row with tiny stools that the fishwives sit on. The stock of fishes is stored in boxes piled on top of one another that act like their refrigerators with ice covering the fishes in them to keep it fresh. They arrange the fishes in a particular manner to attract customers, they place the biggest fishes at front and smaller ones behind. Prawns, lobsters, shells and other seafood are placed on sides and corners. When you visit the fish market, it looks like the fishwives hate each other and have a lot of competition because of the way they argue with each other to get the customers to them, but on talking to them, I realised that they all share a close bond and only have competition in business.
 Most of the ladies belong to the koli family coming from Daman and others are Christians. Be from whichever caste, all of them wear the typical similar sari, a lot of jewellery and have their hair tied up in a bun with flowers called “gajra” tied on it. This attire shows their identity of belonging to a fishing family, their authenticity and the freshness of the fishes they are providing as coming right from sea.
 
